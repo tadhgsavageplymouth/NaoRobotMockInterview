@@ -1,0 +1,9 @@
+numpy
+opencv-python
+tensorflow
+ipython
+livelossplot
+naoqi
+ 
+# Use pip install 
+# nao sdk 
